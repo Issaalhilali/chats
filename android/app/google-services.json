@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "646684564931",
+    "firebase_url": "https://chat-2864c.firebaseio.com",
+    "project_id": "chat-2864c",
+    "storage_bucket": "chat-2864c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646684564931:android:008219d70a662e76c87176",
+        "android_client_info": {
+          "package_name": "com.issa.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646684564931-o820c9mvoni8il99mk9m4qhmama219aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLZwRmfg8szqx75e59ba5tzskqxb_skOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646684564931-o820c9mvoni8il99mk9m4qhmama219aj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "646684564931-botctvckegi6garti128rt5u4feff0jd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.issa.chat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
